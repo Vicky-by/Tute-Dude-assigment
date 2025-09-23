@@ -1,5 +1,5 @@
 # Tute-Dude-assigment_1
-input  teonnumber from user than perfome this task
+input  two number from user than perfome this task
 Addition
 Subtraction
 Multiplication
