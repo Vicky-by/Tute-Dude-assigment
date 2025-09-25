@@ -1,6 +1,6 @@
 #task 1 check if a number is even or odd
 
-no=int(input("Enter Number: "))
+no=int(input("Enter Number: ")) #input numbrt by user
 if(no%2==1):
     print(no,"is an odd  number.")
 
@@ -16,3 +16,4 @@ total=0
 for i in range(1,51):
     total += i
 print("The sum of integers from 1 to 50 is:", total)
+
