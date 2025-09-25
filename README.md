@@ -41,6 +41,8 @@
       1.   Takes user input and writes it to a file named output.txt.
       2.   Appends additional data to the same file.
       3.   Reads and displays the final content of the file.
+
+      
 5 Assignment 5
     Task1
       1.   Creates a dictionary where student names are keys and their marks are values.
